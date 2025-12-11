@@ -60,3 +60,5 @@ raw/ecommerce/*.csv
 ```text
 raw/superstore/*.csv
 ```
+
+PD: Estimado profesor, por temas de tiempo no pude completar al 100% el proyecto, pero igual quería dejar una parte de mi avance demostrando lo aprendido en clases :) Gracias por su tiempo y conocimiento
